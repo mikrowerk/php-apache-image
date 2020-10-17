@@ -1,0 +1,1 @@
+docker build -t agmedia/typo3baseimage:10.4 .
